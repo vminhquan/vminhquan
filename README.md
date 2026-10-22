@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Minh Quan 👋</h1>
+<h1 align="center">Hi there, I'm Minh Quan</h1>
 <h3 align="center">AI Engineer · LLM Agents · RAG · Computer Vision & Autonomous Driving</h3>
 
 <p align="center">
@@ -15,18 +15,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🤖 **AI Engineer** focused on **LLM agents**, **Retrieval-Augmented Generation**, and **Computer Vision for autonomous driving**.
-- 🏢 **AI Intern** at **FPT Corporation – Technology Division** (01/2026 – 04/2026).
-- 🚗 Currently in **VinUniversity – AI in Action**, *Level 4 – Track 04: Computer Vision and Robotics*.
-- 🛠️ Creator of **Scenario Forge** — an AI-powered automated testing system for autonomous vehicles.
-- 🎓 Information Technology at **Dai Nam University** (GPA 3.2/4.0).
-- 💬 Ask me about **LangGraph, RAG, CARLA / OpenSCENARIO, FastAPI**.
+- **AI Engineer** focused on **LLM agents**, **Retrieval-Augmented Generation**, and **Computer Vision for autonomous driving**.
+- **AI/LLM Engineer** at **FPT Corporation – Technology Division**.
+- Currently in **VinUniversity – AI in Action**, Computer Vision and Robotics*.
+- Creator of **Scenario Forge** — an AI-powered automated testing system for autonomous vehicles.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **AI / ML**
 
@@ -55,45 +53,33 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🚘 [Scenario Forge](https://github.com/AI20K-Build-Phase-Cohort-4/P-065) — AI-Powered Autonomous Vehicle Testing
-*09/2026 – Present* · 🌐 [Live demo](https://c4-app-065.io.vn)
+### [Scenario Forge](https://github.com/AI20K-Build-Phase-Cohort-4/P-065) — AI-Powered Autonomous Vehicle Testing
+*09/2026 – Present* · [Live in production](https://c4-app-065.io.vn)
 
 Automatically generates challenging scenarios to test autonomous vehicles in **CARLA**, end to end.
 
-- 🧠 **LangGraph** workflow + LLM tool calling turns **natural-language descriptions into test cases**.
-- 📄 Exports **OpenSCENARIO (`.xosc`)** files and sends them to **CARLA Runner via WebSocket** for execution and report retrieval.
-- 📊 Test case storage, statistics, and reporting with a **FastAPI + Next.js** dashboard.
+- **LangGraph** workflow + LLM tool calling turns **natural-language descriptions into test cases**.
+- Exports **OpenSCENARIO (`.xosc`)** files and sends them to **CARLA Runner via WebSocket** for execution and report retrieval.
+- Test case storage, statistics, and reporting with a **FastAPI + Next.js** dashboard.
 
 `LangGraph` `LLM` `CARLA` `OpenSCENARIO` `WebSocket` `FastAPI` `Next.js`
 
-### 🎬 [QTIK](https://github.com/vminhquan/fastapi-project) — AI-Powered Automated Movie Ticketing
-*03/2026 – Present* · 🌐 [Live demo](https://qtik.io.vn)
+### [QTIK](https://github.com/vminhquan/fastapi-project) — AI-Powered Automated Movie Ticketing
+*03/2026 – Present* · [Live in production](https://qtik.io.vn)
 
 A chatbot that lets users find movies, cinemas, and showtimes — and **book tickets entirely through conversation**.
 
-- 🔎 **RAG + LLM** answers questions grounded in real data about movies, cinemas, and schedules.
-- 🤖 **LangGraph** booking agent with tools to search showtimes, check seat availability, select seats, and create bookings.
-- 🖥️ **FastAPI + Next.js** platform to manage movies, showtimes, tickets, and booking history.
+- **RAG + LLM** answers questions grounded in real data about movies, cinemas, and schedules.
+- **LangGraph** booking agent with tools to search showtimes, check seat availability, select seats, and create bookings.
+- **FastAPI + Next.js** platform to manage movies, showtimes, tickets, and booking history.
 
 `RAG` `LangGraph` `Tool Calling` `FastAPI` `Next.js`
 
 ---
 
-## 💼 Experience
-
-| Role | Organization | Period |
-|---|---|---|
-| **Level 4 – Track 04**: Computer Vision & Robotics | VinUniversity – AI in Action | 09/2026 – 01/2027 |
-| **AI Intern** | FPT Corporation – Technology Division | 01/2026 – 04/2026 |
-
-- **VinUniversity** — Built Scenario Forge; studied ML, DL, and LLM applications; explored autonomous driving & robotics (sensor data, simulation, perception); researched CV models for object detection in traffic.
-- **FPT – AI Intern** — Annotated and reviewed training/evaluation data; tested **YOLOv10** outputs on real-world cases and consolidated failure feedback for the dev team.
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vminhquan"><img src="https://img.shields.io/badge/LinkedIn-Vo%20Minh%20Quan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
