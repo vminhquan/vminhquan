@@ -66,17 +66,6 @@ Automatically generates challenging scenarios to test autonomous vehicles in **C
 
 `LangGraph` `LLM` `CARLA` `OpenSCENARIO` `WebSocket` `FastAPI` `Next.js`
 
-### [QTIK](https://github.com/vminhquan/fastapi-project) — AI-Powered Automated Movie Ticketing
-*03/2026 – Present* · [Live in production](https://qtik.io.vn)
-
-A chatbot that lets users find movies, cinemas, and showtimes — and **book tickets entirely through conversation**.
-
-- **RAG + LLM** answers questions grounded in real data about movies, cinemas, and schedules.
-- **LangGraph** booking agent with tools to search showtimes, check seat availability, select seats, and create bookings.
-- **FastAPI + Next.js** platform to manage movies, showtimes, tickets, and booking history.
-
-`RAG` `LangGraph` `Tool Calling` `FastAPI` `Next.js`
-
 ---
 
 ## Let's Connect
