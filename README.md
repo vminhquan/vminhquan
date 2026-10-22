@@ -19,7 +19,7 @@
 
 - **AI Engineer** focused on **LLM agents**, **Retrieval-Augmented Generation**, and **Computer Vision for autonomous driving**.
 - **AI/LLM Engineer** at **FPT Corporation – Technology Division**.
-- Currently in **VinUniversity – AI in Action**, Computer Vision and Robotics*.
+- Currently in **VinUniversity – AI in Action**, Computer Vision and Robotics.
 - Creator of **Scenario Forge** — an AI-powered automated testing system for autonomous vehicles.
 
 ---
